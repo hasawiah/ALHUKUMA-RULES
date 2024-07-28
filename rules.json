@@ -1,62 +1,42 @@
 [
   {
-    "id": "rules1",
-    "title": "rules2",
+    "id": "قوانين 1",
+    "title": "قوانين الامن العام",
     "description": "data/file1.txt"
   },
   {
-    "id": "rule2",
-    "title": "test 2",
+    "id": "فوانين 2",
+    "title": "قوانين القوات الخاصة",
     "description": "data/file2.txt"
   },
   {
-    "id": "rule3",
-    "title": "test 3",
+    "id": "قوانين 3",
+    "title": "قوانين المباحث",
     "description": "data/file3.txt"
   },
   {
-    "id": "rule4",
-    "title": "test 3",
+    "id": "قوانين 4",
+    "title": "قوانين الدفاع",
     "description": "data/file4.txt"
   },
   {
-    "id": "rule5",
-    "title": "test 3",
+    "id": "قوانين 5",
+    "title": "قوانين المستشفى",
     "description": "data/file5.txt"
   },
   {
-    "id": "rule6",
-    "title": "test 3",
+    "id": "قوانيتن 6",
+    "title": "قوانين العدل",
     "description": "data/file6.txt"
   },
   {
-    "id": "rule7",
-    "title": "test 3",
+    "id": "قوانين 7",
+    "title": "قوانين الحرس الملكي",
     "description": "data/file7.txt"
   },
   {
-    "id": "rule8",
-    "title": "test 3",
+    "id": "قوانين 8",
+    "title": "قوانين الاسرة الحاكمة",
     "description": "data/file8.txt"
-  },
-  {
-    "id": "rule9",
-    "title": "test 3",
-    "description": "data/file9.txt"
-  },
-  {
-    "id": "rule10",
-    "title": "test 3",
-    "description": "data/file10.txt"
-  },
-  {
-    "id": "rule11",
-    "title": "test 3",
-    "description": "data/file11.txt"
-  },
-  {
-    "id": "rule12",
-    "title": "test 3",
-    "description": "data/file12.txt"
   }
 ]
